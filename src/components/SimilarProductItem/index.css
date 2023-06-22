@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.img10 {
+  height: 200px;
+  width: 290px;
+}
+
+.backs {
+  height: 60px;
+  width: 50px;
+  border-radius: 10px;
+  color: white;
+}
+
+.div14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.con10 {
+  padding: 20px;
+}
+
+.head {
+  font-size: 20px;
+}

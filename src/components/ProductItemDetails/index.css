@@ -1,0 +1,89 @@
+/* Write your CSS here */
+
+.img9 {
+  height: 550px;
+  width: 320px;
+}
+
+.size4 {
+  height: 20px;
+  width: 20px;
+  margin-top: 18px;
+}
+
+.backs {
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  padding: 2px;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.div7 {
+  display: flex;
+  flex-direction: row;
+}
+
+.con5 {
+  display: flex;
+  flex-direction: row;
+  width: 950px;
+  margin-left: 40px;
+}
+
+.div11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list5 {
+  list-style-type: none;
+  width: 1400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.con13 {
+  margin-left: 30px;
+  width: 500px;
+}
+
+.button1 {
+  background-color: blue;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  width: 150px;
+  margin-top: 30px;
+  color: white;
+}
+
+.but2 {
+  background-color: transparent;
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+  text-align: center;
+  margin-top: 18px;
+}
+
+.size9 {
+  height: 400px;
+  width: 400px;
+}
+
+.div16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
